@@ -1,1 +1,5 @@
+Links for corpus downlaod:
 
+https://www.kaggle.com/kaggle/hillary-clinton-emails
+
+https://www.kaggle.com/wcukierski/enron-email-dataset
