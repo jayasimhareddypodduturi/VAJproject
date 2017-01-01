@@ -1,1 +1,5 @@
 
+MAil Clustering:
+
+to cluster mails so as to use them as Knowledge base for IR
+form relations between the clusters by categorising them into groups and subgroups
